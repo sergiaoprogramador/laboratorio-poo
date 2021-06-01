@@ -1,0 +1,20 @@
+[
+    {
+        "cpf": "04305958163",
+        "data_nasc": "22-03-1996",
+        "idade": 25,
+        "nome": "Sergio Ramos"
+    },
+    {
+        "cpf": "222222222222",
+        "data_nasc": "22-03-1990",
+        "idade": 29,
+        "nome": "Leandro Amaral"
+    },
+    {
+        "cpf": "54654564564",
+        "data_nasc": "22-03-1994",
+        "idade": 27,
+        "nome": "Willyan Roldo"
+    }
+]
